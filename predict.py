@@ -158,4 +158,3 @@ if __name__=="__main__":
 
     data_path = "./test_data/cj_test.txt"
     predict('./output_model', data_path)
-    print("aaaaaaaaaaa")
